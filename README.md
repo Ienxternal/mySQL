@@ -21,3 +21,5 @@ SO THAT I can organize and plan my business
 ## Technologies Used: 
  
  mySQL
+
+Support from EdenKhaos
